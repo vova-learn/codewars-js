@@ -1,0 +1,24 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "JavaScript на практике",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "#numbers",
+    "#strings",
+    "#arrays",
+    "#Obects",
+    "#class",
+    "#this",
+    "#functions",
+    "#callbacks",
+    "#promises",
+    "#recursion",
+    "#eventloop"
+  ],
+  "author": "",
+  "license": "ISC"
+}
