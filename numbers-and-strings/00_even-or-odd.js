@@ -6,7 +6,7 @@ const getEvenOrOdd = number => {
         EVEN: `Even`,
     };
 
-    return !(number % 2) ? Numbers.EVEN : Numbers.ODD;    
+    return !(number % 2) ? Numbers.EVEN : Numbers.ODD;
 };
 
 // const getEvenOrOdd = number => !(number % 2) ? `Even` : `Odd`;
